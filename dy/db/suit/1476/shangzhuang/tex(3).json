@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "shangzhuang-lzil1.png",
+	"frame": {"x":771,"y":2,"w":200,"h":1033},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":1033},
+	"sourceSize": {"w":200,"h":1033}
+},
+{
+	"filename": "shangzhuang-lziz1.png",
+	"frame": {"x":1438,"y":988,"w":281,"h":1014},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":1014},
+	"sourceSize": {"w":281,"h":1014}
+},
+{
+	"filename": "shangzhuang-piaodai.png",
+	"frame": {"x":1374,"y":2,"w":399,"h":984},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":399,"h":984},
+	"sourceSize": {"w":399,"h":984}
+},
+{
+	"filename": "shangzhuang-qunyurl.png",
+	"frame": {"x":2,"y":2,"w":767,"h":898},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":767,"h":898},
+	"sourceSize": {"w":767,"h":898}
+},
+{
+	"filename": "shangzhuang-shadi1.png",
+	"frame": {"x":762,"y":1037,"w":674,"h":443},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":674,"h":443},
+	"sourceSize": {"w":674,"h":443}
+},
+{
+	"filename": "shangzhuang-xiuzirb.png",
+	"frame": {"x":2,"y":902,"w":677,"h":1021},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":677,"h":1021},
+	"sourceSize": {"w":677,"h":1021}
+},
+{
+	"filename": "shangzhuang-yaodai9.png",
+	"frame": {"x":681,"y":902,"w":79,"h":986},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":986},
+	"sourceSize": {"w":79,"h":986}
+},
+{
+	"filename": "shangzhuang-yaoshi45.png",
+	"frame": {"x":973,"y":2,"w":399,"h":1032},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":399,"h":1032},
+	"sourceSize": {"w":399,"h":1032}
+},
+{
+	"filename": "shangzhuang-yaoshidf1.png",
+	"frame": {"x":1721,"y":988,"w":120,"h":994},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":994},
+	"sourceSize": {"w":120,"h":994}
+},
+{
+	"filename": "shangzhuang-yumao6.png",
+	"frame": {"x":762,"y":1482,"w":187,"h":453},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":453},
+	"sourceSize": {"w":187,"h":453}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "tex3.png",
+	"format": "RGBA8888",
+	"size": {"w":1843,"h":2004},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:214dc7b67ed8324ae85d7befc246543d:4/5$"
+}
+}

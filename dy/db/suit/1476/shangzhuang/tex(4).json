@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "shangzhuang-neixiuzir1.png",
+	"frame": {"x":2,"y":2,"w":503,"h":883},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":503,"h":883},
+	"sourceSize": {"w":503,"h":883}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "tex4.png",
+	"format": "RGBA8888",
+	"size": {"w":507,"h":887},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:214dc7b67ed8324ae85d7befc246543d:5/5$"
+}
+}
