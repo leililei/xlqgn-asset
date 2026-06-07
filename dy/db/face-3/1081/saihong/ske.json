@@ -1,0 +1,1 @@
+{"frameRate":30,"name":"main","version":"5.5","compatibleVersion":"5.5","armature":[{"type":"Armature","frameRate":30,"name":"saihong","bone":[{"name":"root"},{"name":"(frs)arm(point)-saihong","parent":"root"}],"slot":[{"displayIndex":-1,"name":"saihong-1","parent":"(frs)arm(point)-saihong"}],"ik":[],"skin":[],"animation":[],"defaultActions":[]}]}
